@@ -1,4 +1,4 @@
-# Power BI Dashboards
+# Microsoft Excel Dashboards
 
 This section contains a collection of Power BI dashboards I have designed to analyze performance, trends, and business metrics across different domains.
 
@@ -6,7 +6,7 @@ This section contains a collection of Power BI dashboards I have designed to ana
 
 ## Student Performance Dashboard
 **Goal:** Analyze academic performance across subjects and demographics  
-**Tools:** Power BI  
+**Tools:** Excel 
 **Key Focus:** Performance trends, comparisons, insights  
 
 ![Student Dashboard](../assets/student_dashboard.png)
@@ -15,7 +15,7 @@ This section contains a collection of Power BI dashboards I have designed to ana
 
 ## Sales Performance Dashboard
 **Goal:** Track sales trends and revenue performance  
-**Tools:** Power BI  
+**Tools:** Excel 
 **Key Focus:** KPIs, growth, regional performance  
 
 ![Sales Dashboard](../assets/sales_dashboard.png)
@@ -24,7 +24,7 @@ This section contains a collection of Power BI dashboards I have designed to ana
 
 ## HR Analytics Dashboard
 **Goal:** Monitor employee data and attrition  
-**Tools:** Power BI  
+**Tools:** Excel
 **Key Focus:** Workforce insights, retention  
 
 ![HR Dashboard](../assets/hr_dashboard.png)
